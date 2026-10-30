@@ -1,0 +1,9 @@
+streamlit>=1.40,<2
+opencv-python-headless>=4.10
+numpy>=1.26
+pandas>=2.2
+torch>=2.5
+ultralytics==8.4.189
+mediapipe==0.10.35
+
+
